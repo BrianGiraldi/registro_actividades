@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Caminar",
+        "fecha": "12/10/2026",
+        "duracion": 45,
+        "calorias": 180.5
+    },
+    {
+        "nombre": "Gimnasio",
+        "fecha": "13/10/2026",
+        "duracion": 60,
+        "calorias": 350.0
+    },
+    {
+        "nombre": "Ciclismo",
+        "fecha": "15/10/2026",
+        "duracion": 50,
+        "calorias": 410.0
+    },
+    {
+        "nombre": "Caminar",
+        "fecha": "16/10/2026",
+        "duracion": 30,
+        "calorias": 125.0
+    },
+    {
+        "nombre": "Gimnasio",
+        "fecha": "17/10/2026",
+        "duracion": 60,
+        "calorias": 340.5
+    },
+    {
+        "nombre": "Caminar",
+        "fecha": "19?",
+        "duracion": 30,
+        "calorias": 300.0
+    }
+]
